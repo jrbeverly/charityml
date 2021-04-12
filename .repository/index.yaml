@@ -1,0 +1,15 @@
+slug: charityml
+description: CharityML is a fictitious charity organization that was established to provide financial support for people eager to learn machine learning.
+project: udacity
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2020
+topics: |-
+  [
+    "udacity-mlnd",
+    "charityml"
+  ]
